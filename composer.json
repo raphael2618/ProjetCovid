@@ -1,0 +1,9 @@
+{
+  "require": {
+    "monolog/monolog": "1.0.*",
+    "twbs/bootstrap": "^4.5",
+    "nahid/jsonq": "^6.0",
+    "amphp/mysql": "^2.0",
+    "voku/simple-mysqli": "^8.2"
+  }
+}
