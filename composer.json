@@ -1,9 +1,10 @@
 {
   "require": {
-    "monolog/monolog": "1.0.*",
+    "monolog/monolog": "^2.0",
     "twbs/bootstrap": "^4.5",
     "nahid/jsonq": "^6.0",
-    "amphp/mysql": "^2.0",
-    "voku/simple-mysqli": "^8.2"
-  }
+    "voku/simple-mysqli": "^8.2",
+    "phpdocumentor/phpdocumentor": "^3.0"
+  },
+  "minimum-stability": "beta"
 }

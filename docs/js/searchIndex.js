@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\raphaelb\\NewsFetcher",
+            "name": "NewsFetcher",
+            "summary": "Cette\u0020classe\u0020genere\u0020les\u0020articles\u0020d\u0027actualite",
+            "url": "classes/raphaelb-NewsFetcher.html"
+        },                {
+            "fqsen": "\\raphaelb\\NewsFetcher\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructeur\u0020de\u0020la\u0020classe\u0020NewsFetcher",
+            "url": "classes/raphaelb-NewsFetcher.html#method___construct"
+        },                {
+            "fqsen": "\\raphaelb\\NewsFetcher\u003A\u003Afetch\u0028\u0029",
+            "name": "fetch",
+            "summary": "Connecte\u0020a\u0020la\u0020base\u0020de\u0020donnees,\u0020requert\u0020les\u00203\u0020articles\u0020selon\u0020le\u0020dernier\u0020ID\u0020et\u0020genere\u0020le\u0020HTML",
+            "url": "classes/raphaelb-NewsFetcher.html#method_fetch"
+        },                {
+            "fqsen": "\\raphaelb\\NewsFetcher\u003A\u003A\u0024log",
+            "name": "log",
+            "summary": "Loggeur\u0020pour\u0020les\u0020erreurs\u0020face\u0020a\u0020la\u0020base\u0020de\u0020donnees",
+            "url": "classes/raphaelb-NewsFetcher.html#property_log"
+        },                {
+            "fqsen": "\\raphaelb\\Statistics",
+            "name": "Statistics",
+            "summary": "Cette\u0020classe\u0020genere\u0020les\u0020statistiques",
+            "url": "classes/raphaelb-Statistics.html"
+        },                {
+            "fqsen": "\\raphaelb\\Statistics\u003A\u003Afetch\u0028\u0029",
+            "name": "fetch",
+            "summary": "Tire\u0020de\u0020l\u0027API\u0020corona.lmao.ninja\u0020des\u0020donnees\u0020en\u0020JSON,\nutilise\u0020JSONQ\u0020pour\u0020faire\u0020des\u0020calculs\u0020et\u0020genere\u0020une\u0020table\u0020de\u0020statistiques.",
+            "url": "classes/raphaelb-Statistics.html#method_fetch"
+        },                {
+            "fqsen": "\\raphaelb\\Statistics\u003A\u003AgetImage\u0028\u0029",
+            "name": "getImage",
+            "summary": "Genere\u0020le\u0020code\u0020HTML\u0020pour\u0020une\u0020image\u0020avec\u0020des\u0020statistiques.",
+            "url": "classes/raphaelb-Statistics.html#method_getImage"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        },                {
+            "fqsen": "\\raphaelb",
+            "name": "raphaelb",
+            "summary": "",
+            "url": "namespaces/raphaelb.html"
+        }            ]
+);
