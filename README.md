@@ -6,9 +6,9 @@ Projet pour classe de CSI 2020 utilisant Composer, Monolog, phpDocumentor, Git, 
 
 Le projet contiens 3 pages : 
 
-L'accueil avec un tableau statistiques sur le COVID 19 tirer d'une API (cf. Statistics.php)
-Une page d'inforamtion (infos.php)
-Une page d'actualité (news.php)
+  L'accueil avec un tableau statistiques sur le COVID 19 tirer d'une API (cf. Statistics.php)
+  Une page d'inforamtion (infos.php)
+  Une page d'actualité (news.php)
 
 ## Instructions
 
